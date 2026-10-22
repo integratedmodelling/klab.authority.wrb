@@ -1,0 +1,287 @@
+# code	name	replaces	depth rule	allowed depth prefixes (override)	RSG restriction	layer diagnostic
+ap	Abruptic		1			false
+go	Geoabruptic	Abruptic	1			true
+ae	Aceric		2		SC	true
+ac	Acric		2			true
+ao	Acroxic		2		AN	false
+at	Activic		2		FR	true
+ay	Aeolic		2	Ano,Panto		true
+ab	Albic		2			true
+ax	Alcalic					true
+al	Alic		2			true
+aa	Aluandic		2			true
+an	Andic		2			true
+qa	Protoandic	Andic	2			false
+aq	Anthraquic					true
+ak	Anthric					true
+ah	Archaic		2		TC	true
+ar	Arenic		2			true
+ad	Arenicolic					true
+ai	Aric		2	Ano,Panto		true
+az	Arzic				GY	true
+bc	Biocrustic					false
+br	Brunic					true
+nb	Neobrunic	Brunic				true
+by	Bryic					true
+ca	Calcaric		2			true
+cc	Calcic		2			true
+jc	Hypercalcic	Calcic	2			true
+qc	Protocalcic	Calcic	2			true
+cm	Cambic					true
+nc	Neocambic	Cambic				true
+cp	Capillaric					true
+cb	Carbic					true
+cn	Carbonatic				SC	true
+cx	Carbonic		2			true
+ch	Chernic		2	Ano,Panto		true
+tc	Tonguichernic	Chernic	2	Ano,Panto		true
+cl	Chloridic				SC	true
+cr	Chromic					true
+cq	Claric		2		AR	true
+ce	Clayic		2			true
+cs	Coarsic					true
+co	Cohesic		2			true
+cu	Columnic		2			true
+cd	Cordic		2			false
+cy	Cryic		1	Epi,Endo		true
+ct	Cutanic					true
+dn	Densic					true
+df	Differentic					true
+do	Dolomitic		2			true
+ds	Dorsic					true
+dr	Drainic					false
+du	Duric		2			true
+ju	Hyperduric	Duric	2			true
+dy	Dystric		3			true
+jd	Hyperdystric	Dystric				true
+od	Orthodystric	Dystric				true
+ek	Ekranic				TC	true
+ed	Endic					true
+et	Entic				PZ	true
+ep	Epic					true
+ec	Escalic					false
+eu	Eutric		3			true
+je	Hypereutric	Eutric				true
+ol	Oligoeutric	Eutric	3			true
+oe	Orthoeutric	Eutric				true
+es	Eutrosilic		2			true
+ev	Evapocrustic					false
+fl	Ferralic		2			true
+fr	Ferric		2			true
+mf	Manganiferric	Ferric	2			true
+fe	Ferritic		2			true
+jf	Hyperferritic	Ferritic	2			true
+fi	Fibric		2		HS	true
+ft	Floatic				HS	true
+fv	Fluvic		2			true
+kf	Akrofluvic	Fluvic				true
+of	Orthofluvic	Fluvic				true
+fo	Folic					true
+ko	Skeletofolic	Folic				true
+fc	Fractic		2			true
+cf	Calcifractic	Fractic	2			true
+gf	Gypsofractic	Fractic	2			true
+fg	Fragic		2			true
+ga	Garbic		2		TC	true
+jb	Hypergarbic	Garbic	2		TC	true
+ge	Gelic					true
+gt	Gelistagnic					true
+gr	Geric		2			true
+jq	Hypergeric	Geric	2			true
+gi	Gibbsic		2			true
+gg	Gilgaic				VR	false
+gc	Glacic		2			true
+gl	Gleyic		2			true
+iy	Inclinigleyic	Gleyic	2			true
+qy	Protogleyic	Gleyic	2			true
+rl	Relictigleyic	Gleyic	2			true
+gs	Glossic					false
+gz	Greyzemic					true
+gm	Grumic				VR	true
+gy	Gypsic		2			true
+jg	Hypergypsic	Gypsic	2			true
+qq	Protogypsic	Gypsic	2			true
+gp	Gypsiric		2			true
+ha	Haplic					false
+hm	Hemic		2		HS	true
+hi	Histic					true
+kh	Skeletohistic	Histic				true
+ht	Hortic		2	Panto		true
+hu	Humic					true
+jh	Hyperhumic	Humic				false
+dh	Profundihumic	Humic				false
+hg	Hydragric					true
+jy	Hyperhydragric	Hydragric				true
+hy	Hydric		2		AN	true
+hf	Hydrophobic				AR	false
+jl	Hyperalic				AL	true
+ja	Hyperartefactic				TC	true
+jo	Hyperorganic				HS	true
+im	Immissic		2	Ano,Panto		true
+ic	Inclinic					true
+ia	Infraandic					true
+is	Infraspodic					true
+ir	Irragric		2	Panto		true
+il	Isolatic					true
+ip	Isopteric		2	Ano,Panto		true
+ka	Kalaic		2	Epi,Endo,Amphi		true
+qk	Protokalaic	Kalaic	2	Epi,Endo,Amphi		true
+ll	Lamellic		2			true
+ta	Totilamellic	Lamellic				true
+ld	Lapiadic				LP	false
+la	Laxic					true
+le	Leptic		1	Epi,Endo		false
+lg	Lignic					false
+lm	Limnic		2			true
+ml	Minerolimnic	Limnic	2			true
+oo	Organolimnic	Limnic	2			true
+ln	Limonic		2			true
+lc	Linic		1			false
+li	Lithic				LP	false
+nt	Nudilithic	Lithic			LP	false
+lh	Litholinic					true
+lx	Lixic		2			true
+lo	Loamic		2			true
+lv	Luvic		2			true
+mg	Magnesic		2			true
+jm	Hypermagnesic	Magnesic	2			true
+ma	Mahic					true
+mw	Mawic		1	Epi,Endo	HS	true
+mz	Mazic				VR	false
+mi	Mineralic		2	Epi,Endo,Amphi,Poly	HS	true
+km	Akromineralic	Mineralic			HS	true
+oi	Orthomineralic	Mineralic	2	Epi,Endo,Amphi,Poly	HS	true
+mc	Mochipic					true
+mo	Mollic		2	Ano,Panto		true
+am	Anthromollic	Mollic	2	Ano,Panto		true
+sm	Somerimollic	Mollic				true
+tm	Tonguimollic	Mollic	2	Ano,Panto		true
+mm	Mulmic					true
+mh	Murshic		2		HS	true
+mu	Muusic		1	Epi,Endo	HS	true
+nr	Naramic		2			true
+na	Natric		2			true
+jn	Hypernatric	Natric				true
+nn	Nudinatric	Natric				true
+ne	Nechic					true
+ni	Nitic		2			true
+nv	Novic					true
+aj	Areninovic	Novic				true
+cj	Clayinovic	Novic				true
+lj	Loaminovic	Novic				true
+sj	Siltinovic	Novic				true
+ng	Nudiargic					true
+oh	Ochric					true
+om	Ombric				HS	true
+oc	Ornithic		2			true
+os	Ortsteinic				PZ	true
+oa	Oxyaquic		2			true
+oy	Oxygleyic				GL	true
+ph	Pachic				CH,PH,UM,KS	true
+pb	Panpaic					true
+pe	Pellic				VR	false
+pq	Pelocrustic				VR	false
+pt	Petric		1	Epi,Endo		true
+np	Nudipetric	Petric				true
+pc	Petrocalcic		2			true
+pd	Petroduric		2			true
+pg	Petrogypsic		2			true
+pp	Petroplinthic		2			true
+ps	Petrosalic		2			true
+px	Pisoplinthic		2			true
+pi	Placic		2	Epi,Endo,Amphi		true
+pa	Plaggic		2	Panto		true
+pl	Plinthic		2			true
+po	Posic		2			true
+pk	Pretic		2	Panto		true
+pn	Profondic					true
+pr	Protic					true
+qg	Protoargic		2		AR	true
+pu	Puffic					false
+py	Pyric		2			true
+rp	Raptic		1			true
+ra	Reductaquic		2		CR	true
+rd	Reductic					false
+ry	Reductigleyic				GL	true
+rc	Relocatic		4	Epi		true
+rz	Rendzic		2	Ano,Panto		true
+sr	Somerirendzic	Rendzic				true
+rt	Retic					true
+rh	Rheic				HS	true
+ro	Rhodic					true
+rk	Rockic		1	Epi,Endo	HS	true
+ru	Rubic		2		AR	true
+rs	Rustic					true
+sz	Salic		2			true
+jz	Hypersalic	Salic	2			true
+qz	Protosalic	Salic	2			true
+sa	Sapric		2		HS	true
+sh	Saprolithic		2			true
+se	Sideralic		2			true
+jr	Hypersideralic	Sideralic	2			true
+sn	Silandic		2			true
+sl	Siltic		2			true
+sk	Skeletic		5			true
+kk	Akroskeletic	Skeletic				false
+jk	Ejectiskeletic	Skeletic	5			true
+fk	Fractiskeletic	Skeletic	5			true
+ok	Orthoskeletic	Skeletic	5			true
+so	Sodic		2			true
+as	Argisodic	Sodic	2			true
+qs	Protosodic	Sodic	2			true
+sv	Solimovic		2	Ano,Panto		true
+sb	Sombric		2			true
+si	Someric					true
+sd	Spodic		2			true
+jp	Hyperspodic	Spodic				true
+qp	Protospodic	Spodic	2			true
+sp	Spolic		2		TC	true
+jj	Hyperspolic	Spolic	2		TC	true
+st	Stagnic		2			true
+iw	Inclinistagnic	Stagnic	2			true
+qw	Protostagnic	Stagnic	2			true
+rw	Relictistagnic	Stagnic	2			true
+sq	Subaquatic					false
+su	Sulfatic				SC	true
+sf	Sulfidic		2			true
+js	Hypersulfidic	Sulfidic	2			true
+ws	Hyposulfidic	Sulfidic	2			true
+ty	Takyric					true
+te	Technic		5			true
+jt	Hypertechnic	Technic	5			true
+qt	Prototechnic	Technic	5			true
+tf	Tephric		2			true
+qf	Prototephric	Tephric	2			true
+tt	Technotephric	Tephric	2			true
+tr	Terric		2	Panto		true
+ti	Thionic		2			true
+ji	Hyperthionic	Thionic	2			true
+wi	Hypothionic	Thionic	2			true
+tp	Thixotropic					true
+th	Thyric		1	Epi,Endo		true
+td	Tidalic					false
+to	Tonguic					true
+tx	Toxic					true
+rx	Radiotoxic	Toxic				false
+tn	Transportic		2	Ano,Panto		true
+ot	Organotransportic	Transportic	2	Ano,Panto		true
+kt	Skeletotransportic	Transportic	2	Ano,Panto		true
+ts	Tsitelic					true
+tu	Turbic		2			true
+rb	Relictiturbic	Turbic	2			true
+um	Umbric		2	Ano,Panto		true
+aw	Anthroumbric	Umbric	2	Ano,Panto		true
+sw	Someriumbric	Umbric				true
+tw	Tonguiumbric	Umbric	2	Ano,Panto		true
+ub	Urbic		2		TC	true
+jx	Hyperurbic	Urbic	2		TC	true
+uq	Uterquic		2		GL,ST,PL	true
+vm	Vermic					true
+vr	Vertic		2			true
+qv	Protovertic	Vertic	2			true
+vi	Vitric		2			true
+wa	Wapnic		2			true
+xa	Xanthic					true
+ye	Yermic					true
+ny	Nudiyermic	Yermic				true
+vy	Paviyermic	Yermic				true
